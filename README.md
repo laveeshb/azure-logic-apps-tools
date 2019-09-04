@@ -1,1 +1,1 @@
-# azure-logic-apps-tools
+# Azure Tools
