@@ -1,0 +1,21 @@
+{
+    "Name": "ISE read and join",
+    "IsCustom": true,
+    "Description": "Lets you view everything in an ISE and join logic apps in the ISE.",
+    "Actions": [
+      "Microsoft.Logic/integrationServiceEnvironments/*/read",
+      "Microsoft.Logic/integrationServiceEnvironments/join/action"
+    ],
+    "NotActions": [
+      
+    ],
+    "DataActions": [
+      
+    ],
+    "NotDataActions": [
+      
+    ],
+    "AssignableScopes": [
+      "/subscriptions/{subscription-id}"
+    ]
+  }
