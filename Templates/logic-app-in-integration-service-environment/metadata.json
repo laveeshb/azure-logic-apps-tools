@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Create a Logic App in an integration service environment",
+  "icon": "logic",
+  "description": "This template creates an empty logic app in an integration service environment.",
+  "summary": "Create a Logic App in an integration service environment.",
+  "githubUsername": "laveeshb",
+  "dateUpdated": "2020-02-17",
+  "tags": {
+  }
+}  
